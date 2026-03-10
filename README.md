@@ -3,9 +3,13 @@
 In the rapid-delivery industry, "Late Delivery" is often unavoidable due to external factors. However, the real business threat is the expectation-reality gap. This project analyzes 45,000+ Zomato delivery records to identify "logistical stress zones" and implements data-driven solutions to protect high-value revenue and customer satisfaction.
 
 🛠️ Tech Stack
+
   1.Language: Python 3.12
+  
   2.Libraries: Pandas, NumPy, Seaborn, Matplotlib
+  
   3.Database Logic: SQL (via pandasql)
+  
   4.Environment: Google Colab
 
 🧠 Key Features & Analysis
